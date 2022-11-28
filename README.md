@@ -5,7 +5,7 @@ This is a random password generator.
 This page will take the criteria that you put into it and create a randomly generated password based on the choices you select when the boxes appear. 
 
 ## Screenshot of finished page 
-![screenshot of portfolio page](./screen-shot-webpage)
+![screenshot of portfolio page](./screen-shot-webpage.png)
 
 ## Link to github pages and repo
 
