@@ -12,7 +12,7 @@ function generatePassword() {
   var result = [];
   var temp = [];
 
-//prompts that decide our final result criteria.
+  //prompts that decide our final result criteria.
   var passwordLength = prompt('How long does your password need to be?\nMinimum of 8 characters. Max of 128 characters.');
   if (passwordLength >= 8 && passwordLength <= 128) {
 
